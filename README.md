@@ -1,12 +1,8 @@
-```
-Support seraph via donations, thanks in advance !
-```
-
-# auto-loot-old [![](https://img.shields.io/badge/paypal-donate-333333.svg?colorA=0070BA&colorB=333333)](https://www.paypal.me/seraphinush) [![](https://img.shields.io/badge/patreon-pledge-333333.svg?colorA=F96854&colorB=333333)](https://www.patreon.com/seraphinush)
+# auto-loot-old
 tera-toolbox module to loot items automatically
 
 ## Auto-update guide
-- Create a folder called `auto-loot-old` in `tera-toolbox/mods` and download >> [`module.json`](https://raw.githubusercontent.com/ylennia-archives/auto-loot-old/master/module.json) << (right-click this link and save link as..) into the folder
+- Create a folder called `auto-loot-old` in `tera-toolbox/mods` and download >> [`module.json`](https://raw.githubusercontent.com/KYGAS/auto-loot-old/master/module.json) << (right-click this link and save link as..) into the folder
 
 ## Usage
 - `loot`
